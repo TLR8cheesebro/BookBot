@@ -1,4 +1,5 @@
 #lets yeet this wheat
+#all done wheat yeeting
 
 print("Welcome to Xerath's Word Counting Compendium")
 print("counting words in the tome . . .")
